@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&height=50&lines=Systems+%26+Low-Level+Developer;Rust+%2B+C%2B%2B+Enthusiast;Building+AI+%26+Database+Tools" alt="Typing SVG" />
+</div>
+
 <table border="0" width="100%">
 <tr>
 <td width="42%" align="center" valign="top">
@@ -38,4 +42,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josue337&theme=dark&background=0d1117&stroke=30363d&ring=3fb950&fire=3fb950&currStreakLabel=3fb950" alt="GitHub Streak Stats" />
 </div>
 
-[https://github-readme-stats.vercel.app](https://github-readme-stats.vercel.app)
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue337&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=3fb950" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josue337&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=3fb950&icon_color=3fb950" alt="Estadísticas de GitHub" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Josue337/Josue337/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
