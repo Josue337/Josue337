@@ -1,7 +1,11 @@
+<!-- Banner Animado Superior (Corregido el símbolo +) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&height=50&lines=Systems+%26+Low-Level+Developer;Rust+%2B+C%2B%2B+Enthusiast;Building+AI+%26+Database+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&height=50&lines=Desarrollador+de+Sistemas;Entusiasta+de+Rust+%2B+C%2B%2B;Programaci%C3%B3n+de+Bajo+Nivel+%2B+IA" alt="Typing SVG" />
 </div>
 
+<br />
+
+<!-- Tabla de Perfil + Retrato ASCII -->
 <table border="0" width="100%">
 <tr>
 <td width="42%" align="center" valign="top">
@@ -44,6 +48,7 @@
 
 <br />
 
+<!-- Estadísticas y Lenguajes -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue337&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=3fb950" alt="Lenguajes más usados" />
   <img src="https://github-readme-stats.vercel.app/api?username=Josue337&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=3fb950&icon_color=3fb950" alt="Estadísticas de GitHub" />
@@ -51,27 +56,23 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Josue337/Josue337/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br />
-
+<!-- Redes Sociales (Recuerda reemplazar con tus enlaces) -->
 <div align="center">
   <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/TU_USUARIO" target="_blank">
+  <a href="https://x.com" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
 <br />
 
-## 🚀 Proyectos Destacados
+<!-- Proyectos Destacados -->
+<h2 align="center">🚀 Proyectos Destacados</h2>
 
 <table border="0" width="100%">
   <tr>
@@ -85,5 +86,7 @@
       <p>Descripción breve del proyecto de base de datos o sistema paralelo.</p>
       <p><code>C++</code> · <code>CUDA</code></p>
     </td>
+  </tr>
+</table>
   </tr>
 </table>
