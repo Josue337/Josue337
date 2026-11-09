@@ -54,3 +54,36 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Josue337/Josue337/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+<br />
+
+<div align="center">
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+## 🚀 Proyectos Destacados
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📌 Proyecto 1</h3>
+      <p>Descripción breve del proyecto, arquitectura de bajo nivel o herramientas utilizadas.</p>
+      <p><code>Rust</code> · <code>Linux</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📌 Proyecto 2</h3>
+      <p>Descripción breve del proyecto de base de datos o sistema paralelo.</p>
+      <p><code>C++</code> · <code>CUDA</code></p>
+    </td>
+  </tr>
+</table>
