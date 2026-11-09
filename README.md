@@ -1,6 +1,6 @@
-<!-- Banner Animado Superior (Ancho ampliado a 600px) -->
+<!-- Banner Animado Superior (Corregido el símbolo +) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&height=50&lines=Desarrollador+de+Sistemas;Entusiasta+de+Rust+%2B+C%2B%2B;Programacion+de+Bajo+Nivel+%2B+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=500&height=50&lines=Desarrollador+de+Sistemas;Entusiasta+de+Rust+%2B+C%2B%2B;Programaci%C3%B3n+de+Bajo+Nivel+%2B+IA" alt="Typing SVG" />
 </div>
 
 <br />
@@ -8,21 +8,21 @@
 <!-- Tabla de Perfil + Retrato ASCII -->
 <table border="0" width="100%">
 <tr>
-<td width="40%" align="center" valign="top">
-<img src="./retrato-ascii.svg" width="100%" alt="ASCII Portrait" />
+<td width="42%" align="center" valign="top">
+<img src="./ascii-portrait.svg" width="100%" alt="ASCII Portrait" />
 </td>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px; font-family: monospace;">
 <div style="color: #8b949e; font-size: 12px; margin-bottom: 8px; border-bottom: 1px solid #21262d; padding-bottom: 6px;">
 🔴 🟡 🟢 &nbsp;&nbsp; <b style="color: #c9d1d9;">Josue337 / README.md</b>
 </div>
-<pre style="font-family: monospace; color: #58a6ff; margin: 0; background: transparent; padding: 0; line-height: 1.5; white-space: pre-wrap;">
+<pre style="font-family: monospace; color: #58a6ff; margin: 0; background: transparent; padding: 0; line-height: 1.5;">
 <b style="color: #3fb950;">Josue337@github</b>
 ─────────────────────────────────────────
 <b>Name:</b>    Josué
 <b>Role:</b>    Desarrollador / Systems
 <b>Stack:</b>   Rust · C++ · Python · CUDA
-<b>Likes:</b>   Low-level · IA · Open Source
+<b>Likes:</b>   Low-level, AI, Open Source
 </pre>
 </div>
 </td>
@@ -56,7 +56,7 @@
 
 <br />
 
-<!-- Redes Sociales -->
+<!-- Redes Sociales (Recuerda reemplazar con tus enlaces) -->
 <div align="center">
   <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
